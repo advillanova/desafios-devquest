@@ -1,0 +1,25 @@
+
+.tabela-loja {
+    color: #fff;
+    text-align: center;
+}
+
+.cabecalho-moda {
+    background-color: #bb86fc;
+}
+
+.cabecalho-casa {
+    background-color: #00c4b4;
+}
+
+.cabecalho-moda, .cabecalho-casa {
+    font-weight: bold;
+}
+
+.produtos {
+    background-color: #424250;
+}
+
+th, td{
+    padding: 5px 10px;
+}
